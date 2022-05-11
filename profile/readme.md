@@ -15,3 +15,5 @@ The following are our open source packages:
 And here is [a course](https://www.educative.io/courses/fast-api-laravel) by [Gaurav](https://twitter.com/gauravmakhecha) on developing fast and secure APIs in Laravel.
 
 If you are looking for more users to your website? Or more sales? Our custom digital solutions can help you grow your business. Let us [discuss](https://www.freshbits.in).
+
+PS - We are [hiring](https://www.freshbits.in/careers).
